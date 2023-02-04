@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.hero {
+  background-image: url('./assets/hero.png');
+  width: 100%;
+  height: 50vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
